@@ -40,7 +40,7 @@ newgrp docker
 ## 📦 Step 3: Clone This Repo & Configure
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/n8n-local-deploy.git
+git clone https://github.com/Abhishekjohn1507/n8n-local-deploy.git
 cd n8n-local-deploy
 
 cp .env.example .env
@@ -71,7 +71,7 @@ ip a | grep inet
 
 ## 🔐 Optional: Add Domain + HTTPS (Nginx + Certbot)
 
-Check [NGINX HTTPS Guide](https://github.com/YOUR_USERNAME/n8n-gcp-neon-free-hosting#-add-a-domain-name-with-https-using-nginx)
+Check [NGINX HTTPS Guide](https://github.com/Abhishekjohn1507/n8n-local-deploy.git/n8n-gcp-neon-free-hosting#-add-a-domain-name-with-https-using-nginx)
 
 ---
 
